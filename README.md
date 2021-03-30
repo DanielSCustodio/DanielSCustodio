@@ -6,8 +6,8 @@ My name is Daniel Custódio, I am front-end developer.
 I always want to learn more.
 
 📍 From Três Rios, Brazil
-
-  
+#
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielSCustodio&layout=compact&langs_count=8&theme=none"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
