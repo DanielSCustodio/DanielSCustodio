@@ -2,7 +2,9 @@
 
 ### Hey, people!
 My name is Daniel Custódio, I am front-end developer.
+
 I always want to learn more.
+
 📍 From Três Rios, Brazil
 #
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielSCustodio&layout=compact&langs_count=8&theme=none"/>
