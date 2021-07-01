@@ -19,5 +19,4 @@ I always want to learn more.
   <a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/danielscustodio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-</div>
- ![Snake animation](https://github.com/DanielSCustodio/DanielSCustodio/blob/output/github-contribution-grid-snake.svg)
+  </div>
