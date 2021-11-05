@@ -5,7 +5,7 @@ Meu nome é Daniel Custódio, eu sou desenvolvedor front-end
 
 Eu sempre quero aprender mais.
 
-📍 De Três Rios, Brazil
+📍 De Três Rios, Brasil
 #
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielSCustodio&layout=compact&langs_count=8&theme=none"/>
 <div style="display: inline_block"><br>
