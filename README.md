@@ -1,6 +1,6 @@
 
 
-### Hey, people!
+### Olá, Você!
 Meu nome é Daniel Custódio, eu sou desenvolvedor front-end
 
 Eu sempre quero aprender mais.
