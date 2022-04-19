@@ -16,6 +16,7 @@ Principais:
 * Nodejs
 * MySQL
 * MongoDB
+* Jest
 * Docker / Linux
 
 Já utilizei, mas faz algum tempo que não programo mais: 
