@@ -1,7 +1,7 @@
 ## Daniel Custódio
 
 No final de 2020 me formei em Análise e Desenvolvimento de Sistemas, desde então me dedico inteiramente à minha missão que é ser um desenvolvedor web.
-Em Junho de 2021 entre na [Trybe](https://betrybe.com/) e lá estou adquirindo a bagagem de um desenvolvedor fullstack junior.
+Em Junho de 2021 entrei na [Trybe](https://betrybe.com/) e estou adquirindo a bagagem de um desenvolvedor fullstack junior.
 
 ### 💻 Tecnologias
 
