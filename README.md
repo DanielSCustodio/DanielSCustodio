@@ -19,7 +19,7 @@ Principais:
 * Jest
 * Docker / Linux
 
-Já utilizei, mas faz algum tempo que não programo mais: 
+Já utilizei, mas faz algum tempo que não uso: 
 
 * Java
 * PHP
