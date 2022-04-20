@@ -7,6 +7,7 @@
 </head>
 <body>
   <h1>Olá, eu sou o Daniel Custódio 👋</h1>
+  <spam><i>Desenvolvimento em carreira full stack.</i></spam>
   <h3>💻Stacks</h3>
   <table align="center">
     <tr align="left">
@@ -77,5 +78,5 @@
 </body>
 <h3>✉️ Contato</h3>
 <p><b>Email</b>: danielcustodio.dev@gmail.com</p>
-<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank">🤝 <b>Linkedin</b></a>
+<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="blank">🤝 <b>Linkedin</b></a>
 </html>
