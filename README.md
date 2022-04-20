@@ -3,25 +3,40 @@
 No final de 2020 me formei em Análise e Desenvolvimento de Sistemas, desde então me dedico inteiramente à minha missão que é ser um desenvolvedor web.
 Em Junho de 2021 entrei na [Trybe](https://betrybe.com/) e estou adquirindo a bagagem de um desenvolvedor fullstack junior.
 
-### 💻 Tecnologias
+## 💻 Tecnologias
 
 Principais: 
-
-* HTML
-* CSS
+### Front-end
 * JavaScript
+* HTML5
+* CSS3
 * React
+* Redux
+* Bootstrap
 * Wordpress
+### Back-end
 * Typescript
-* Nodejs
+* Java
+* Node.js
+* Express
+* JWT
+* Express
+* Sequelize
+### Banco de dados
 * MySQL
 * MongoDB
+### Testes
+* Mocha
+* Chai 
+* Sinon
+* RTL
 * Jest
-* Docker / Linux
-
-Já utilizei, mas faz algum tempo que não uso: 
-
-* Java
+### Outros
+* Docker
+* Heroku
+* Git
+* Linux
+### Já tive contato
 * PHP
 * Python
 * C
