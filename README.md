@@ -10,7 +10,7 @@
   <spam><i>Sempre fui apaixonado por programação, mas passei a maior parte da minha vida profissional atuando no comércio. 
 No final de 2020 me formei em Análise e Desenvolvimento de Sistemas, desde então me dedico inteiramente em minha missão que é ser um desenvolvedor de software web.
 Em Junho de 2021 entrei na Trybe e estou adquirindo a bagagem de um desenvolvedor fullstack junior.</i></spam>
-  <h3>💻Stacks</h3>
+  <h3>💻 Stacks</h3>
   <table align="center">
     <tr align="left">
       <th>Front-end</th>
