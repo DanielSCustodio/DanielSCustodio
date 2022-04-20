@@ -77,5 +77,5 @@
 </body>
 <h3>✉️ Contato</h3>
 <p><b>Email</b>: danielcustodio.dev@gmail.com</p>
-<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="blank">🤝 <b>Linkedin</b></a>
+<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank">🤝 <b>Linkedin</b></a>
 </html>
