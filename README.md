@@ -1,48 +1,81 @@
-## Daniel Custódio
-
-No final de 2020 me formei em Análise e Desenvolvimento de Sistemas, desde então me dedico inteiramente à minha missão que é ser um desenvolvedor web.
-Em Junho de 2021 entrei na [Trybe](https://betrybe.com/) e estou adquirindo a bagagem de um desenvolvedor fullstack junior.
-
-## 💻 Tecnologias
-
-Principais: 
-### Front-end
-* JavaScript
-* HTML5
-* CSS3
-* React
-* Redux
-* Bootstrap
-* Wordpress
-### Back-end
-* Typescript
-* Java
-* Node.js
-* Express
-* JWT
-* Express
-* Sequelize
-### Banco de dados
-* MySQL
-* MongoDB
-### Testes
-* Mocha
-* Chai 
-* Sinon
-* RTL
-* Jest
-### Outros
-* Docker
-* Heroku
-* Git
-* Linux
-### Já tive contato
-* PHP
-* Python
-* C
-* Pascal
-
-### ✉️ Contato
-
-* E-mail: danielcustodio.dev@gmail.com
-* Linkedin:https://www.linkedin.com/in/danielsilvacustodio/
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Olá, eu sou o Daniel Custódio 👋</h1>
+  <h3>💻Stacks</h3>
+  <table align="center">
+    <tr align="left">
+      <th>Front-end</th>
+      <th>Back-end</th>
+      <th>Testes</th>
+      <th>Banco de dados</th>
+      <th>Outros</th>
+      <th>Já tive contato</th>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>Typescript</td>
+      <td>Mocha</td>
+      <td>MySQL</td>
+      <td>Docker</td>
+      <td>PHP</td>
+    </tr>
+    <tr>
+      <td>HTML5</td>
+      <td>Node.js</td>
+      <td>Chai</td>
+      <td>MongoDB</td>
+      <td>Heroku</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>CSS3</td>
+      <td>Java</td>
+      <td>Sinon</td>
+      <td></td>
+      <td>Git</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>Express</td>
+      <td>RTL</td>
+      <td></td>
+      <td>Linux</td>
+      <td>Pascal</td>
+    </tr>
+    <tr>
+      <td>Redux</td>
+      <td>JWT</td>
+      <td>Jest</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bootstrap</td>
+      <td>Sequelize</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wordpress</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</body>
+<h3>✉️ Contato</h3>
+<p><b>Email</b>: danielcustodio.dev@gmail.com</p>
+<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank">🤝 <b>Linkedin</b></a>
+</html>
