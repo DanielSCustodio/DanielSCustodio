@@ -57,7 +57,7 @@ Em Junho de 2021 entrei na Trybe e estou adquirindo a bagagem de um desenvolvedo
       <td>JWT</td>
       <td>Jest</td>
       <td></td>
-      <td></td>
+      <td>MSC</td>
       <td></td>
     </tr>
     <tr>
