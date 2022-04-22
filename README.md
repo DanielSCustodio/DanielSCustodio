@@ -58,7 +58,7 @@ Em Junho de 2021 entrei na Trybe e estou adquirindo a bagagem de um desenvolvedo
       <td>Jest</td>
       <td></td>
       <td>MSC</td>
-      <td></td>
+      <td>jQuery</td>
     </tr>
     <tr>
       <td>Bootstrap</td>
