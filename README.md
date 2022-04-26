@@ -7,9 +7,10 @@
 </head>
 <body>
   <h1>Olá, eu sou o Daniel Custódio 👋</h1>
-  <spam><i>Sempre fui apaixonado por programação, mas passei a maior parte da minha vida profissional atuando no comércio. 
-No final de 2020 me formei em Análise e Desenvolvimento de Sistemas, desde então me dedico inteiramente em minha missão que é ser um desenvolvedor de software web.
-Em Junho de 2021 entrei na Trybe e estou adquirindo a bagagem de um desenvolvedor fullstack junior.</i></spam>
+  <spam><i>Sempre fui apaixonado por programação, mas passei a maior parte da minha vida profissional atuando no comércio. <br/>
+No final de 2019, já tinha saído do emprego para me empenhar  totalmente a faculdade e comecei a me dedicar completamente ao aprendizado de programação, conhecimentos de stacks, conhecer sobre o mercado e conversar com pessoas que já são profissionais da area de desenvolvimento.<br/>
+No final de 2020 me formei em Análise e Desenvolvimento de Sistemas. Nos últimos meses da faculdade eu percebi  que assim como a primeira faculdade que fiz, essa também não me tornaria um bom profissional se dependesse exclusivamente dela, então intensifiquei mais a rotina de estudos e comecei a correr atrás por minha conta mesmo, nesse ponto eu já estava totalmente empolgado em seguir carreira de programador.<br/>
+Em Junho de 2021 entrei na Trybe e  estou adquirindo a bagagem de um desenvolvedor fullstack junior, com uma rotina intensa voltada para o desenvolvimento web.</i></spam>
   <h3>💻 Stacks</h3>
   <table align="center">
     <tr align="left">
