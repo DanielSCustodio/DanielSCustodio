@@ -78,7 +78,7 @@ Em Junho de 2021 entrei na Trybe e estou adquirindo a bagagem de um desenvolvedo
     </tr>
   </table>
 </body>
-<h3>✉️ Contato</h3>
+<h3>✉️Contato</h3>
 <p><b>Email</b>: danielcustodio.dev@gmail.com</p>
 <a href="https://www.linkedin.com/in/danielsilvacustodio/" target="blank">🤝 <b>Linkedin</b></a>
   <a href="https://docs.google.com/document/d/1HLQYnT-bLTM7h74USrtuw6t5YAFRqOi6gf2cZu3dSMc/edit?usp=sharing" target="blank">📄 <b>Currículo</b></a>
