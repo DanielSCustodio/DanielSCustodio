@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Olá, sou o Daniel Custódio 👋</h1>
-  <spam><i>Futuro desenvolvedor full stack junior que paga as contas graças ao Wordpress.</i></spam>
+  <spam><i>Desenvolvedor full stack junior, mas que paga as contas graças ao Wordpress.</i></spam>
   <h3>💻 Stacks</h3>
   <table align="center">
     <tr align="left">
