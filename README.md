@@ -6,6 +6,7 @@
 <body>
   <h1>Olá, sou o Daniel Custódio 👋</h1>
   <spam><i>Desenvolvedor full stack junior, mas que paga as contas graças ao Wordpress.</i></spam>
+  </br>
   <spam>Bem vindo(a) ao perfil mais <i>clean</i> que você verá hoje no GitHub.</spam>
   <h3>💻 Stacks</h3>
   <table align="center">
