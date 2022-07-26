@@ -77,6 +77,6 @@
 </body>
 <h3>✉️ Contato</h3>
 <p><b>Email</b>: danielcustodio.dev@gmail.com</p>
-<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank">🤝 <b>Linkedin</b></a>
-  <a href="https://docs.google.com/document/d/1q01d8_x85lY0UmouBfzq4B_5MgB1U_9aOpGUZYgpLtU/edit?usp=sharing" target="_blank">📄 <b>Currículo</b></a>
+<a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank">🤝 <b>Linkedin</b><i>(Abra em uma nova aba)</i></a>
+  <a href="https://docs.google.com/document/d/1q01d8_x85lY0UmouBfzq4B_5MgB1U_9aOpGUZYgpLtU/edit?usp=sharing" target="_blank">📄 <b>Currículo</b><i>(Abra em uma nova aba)</i></a>
 </html>
