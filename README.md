@@ -79,5 +79,5 @@
   <p><b>Email</b>: danielcustodio.dev@gmail.com</p>
    <p><i>Os links abaixo não abrem em uma nova aba. Para isso, use: CTRL+clique (no Windows e Linux) ou CMD+clique (no MacOS)</i></p>
   <a href="https://www.linkedin.com/in/danielsilvacustodio/" target="_blank">🤝 <b>Linkedin</b></a>
-  <a href="https://docs.google.com/document/d/1q01d8_x85lY0UmouBfzq4B_5MgB1U_9aOpGUZYgpLtU/edit?usp=sharing" target="_blank">📄 <b>Currículo</b></i></a>
+  <a href="https://docs.google.com/document/d/1DGOWRUb9YdRJEIQXsLCIVx1M3Aq2w8ZNgsHrSMTIVWA/edit?usp=sharing" target="_blank">📄 <b>Currículo</b></i></a>
 </html>
