@@ -50,7 +50,7 @@
         <td>Pascal</td>
       </tr>
       <tr>
-        <td>Redux</td>
+        <td>Next.js</td>
         <td>JWT</td>
         <td>Jest</td>
         <td></td>
@@ -60,6 +60,14 @@
       <tr>
         <td>Bootstrap</td>
         <td>Sequelize</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>SASS/SCSS</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
