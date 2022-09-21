@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Olá, sou o Daniel Custódio 👋</h1>
-    <spam><i>Formado em Análise e Desenvolvimento de Sistemas e estudante da Trybe por 1 ano, estou adquirindo bagagem com foco em front-end, com       uma rotina intensa de aprendizado.</i></spam>
+    <spam><i>Formado em Análise e Desenvolvimento de Sistemas e estudante da Trybe por 1 ano - Desenvolvedor Fullstack.</i></spam>
     </br>
     <h3>💻 Stacks</h3>
     <table align="center">
