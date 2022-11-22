@@ -89,6 +89,6 @@
   <p><b>Email</b>: danielcustodio.dev@gmail.com</p>
    <p><i>Os links abaixo não abrem em uma nova aba. Para isso, use: CTRL+clique (no Windows e Linux) ou CMD+clique (no MacOS)</i></p>
      <a href="https://portfolio-daniel-custodio.vercel.app/" target="_blank">:computer: <b>Portfólio</b></a> |
-  <a href="[https://www.linkedin.com/in/danielsilvacustodio/](https://www.linkedin.com/in/danielscustodio/)" target="_blank">🤝<b>Linkedin</b></a> |
+  <a href="https://www.linkedin.com/in/danielscustodio/" target="_blank">🤝<b>Linkedin</b></a> |
   <a href="https://docs.google.com/document/d/1DGOWRUb9YdRJEIQXsLCIVx1M3Aq2w8ZNgsHrSMTIVWA/edit?usp=sharing" target="_blank">📄<b>Currículo</b></i></a>
 </html>
