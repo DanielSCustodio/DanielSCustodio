@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Olá, sou o Daniel Custódio 👋</h1>
-    <spam><i>Formado em Análise e Desenvolvimento de Sistemas e formado na Trybe - Desenvolvedor Fullstack.</i></spam>
+    <spam><i>Formado em Análise e Desenvolvimento de Sistemas e formado na Trybe - Desenvolvedor Fullstack Jr.</i></spam>
     <br/><br/>
     <p>A minha principal ferramenta de trabalho é o React, apesar de ter conhecimentos sobre desenvolvimento back-end, escolhi me aprofundar no front-end, especialmente no ecossistema do React. No momento estou consolidando conhecimento sobre Next.js e desenvolvimento com Typescript.</p>
     </br>
