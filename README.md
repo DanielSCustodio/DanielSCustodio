@@ -76,7 +76,7 @@
         <td></td>
       </tr>
       <tr>
-        <td>Wordpress</td>
+        <td>WordPress</td>
         <td></td>
         <td></td>
         <td></td>
