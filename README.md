@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1>Olá, sou o Daniel Custódio👋</h1>
+    <h1>Olá, eu sou o Daniel Custódio👋</h1>
     <spam><i>Formado em Análise e Desenvolvimento de Sistemas e formado na Trybe - Desenvolvedor Fullstack Jr.</i></spam>
     <br/><br/>
     <p>Minha principal ferramenta de trabalho é o React, apesar de ter conhecimentos sobre desenvolvimento back-end, escolhi me aprofundar no front-end, especialmente no ecossistema do React. <br/><br/>
