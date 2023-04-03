@@ -33,7 +33,7 @@
         <td>Chai</td>
         <td>MongoDB</td>
         <td>Heroku</td>
-        <td>Python</td>
+        <td>Java</td>
       </tr>
       <tr>
         <td>CSS3</td>
