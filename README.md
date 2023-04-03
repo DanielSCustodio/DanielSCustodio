@@ -37,7 +37,7 @@
       </tr>
       <tr>
         <td>CSS3</td>
-        <td>Java</td>
+        <td>Python</td>
         <td>Sinon</td>
         <td></td>
         <td>Git</td>
